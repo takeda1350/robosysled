@@ -1,6 +1,6 @@
 # robosysled
 ## 概要
-Raspberry PiでLEDを点灯させる
+Raspberry Piを使ってLEDを点灯させる
 ## 動画
 ```
 https://youtube.com/watch?v=ob_sc4-T6js
