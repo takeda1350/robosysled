@@ -1,6 +1,9 @@
 # robosysled
 ## 概要
 Raspberry PiでLEDを点灯させる
+## 動画
+```
+https://youtube.com/watch?v=ob_sc4-T6js
 ## インストール方法
 ```
 $ https://github.com/takeda1350/robosysled.git
