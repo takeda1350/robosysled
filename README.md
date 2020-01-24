@@ -4,7 +4,7 @@ Raspberry Piを使ってLEDを点灯させる
 ## 動画
 ```
 https://youtube.com/watch?v=ob_sc4-T6js
-
+```
 ## 使用するもの
 ・Raspberry Pi 3 Model B+
     ・Raspbian
